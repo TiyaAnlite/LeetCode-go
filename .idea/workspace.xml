@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732e1fa5-b7ec-4713-a2c9-a244e8bc81ee" name="默认的" comment="打卡2020/12/15">
-      <change afterPath="$PROJECT_DIR$/设计循环队列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/200. 岛屿数量.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计循环队列.go" beforeDir="false" afterPath="$PROJECT_DIR$/622. 设计循环队列.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +36,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/622. 设计循环队列.go" />
   </component>
-  <component name="RunManager" selected="Go 构建.设计循环队列.">
+  <component name="RunManager" selected="Go 构建.200">
     <configuration name="1480" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="LeetCode-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -54,22 +55,32 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="设计循环队列." type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="200" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="LeetCode-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/设计循环队列.go" />
+      <filePath value="$PROJECT_DIR$/200. 岛屿数量.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="622" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="LeetCode-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/622. 设计循环队列.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go 构建.1480" />
       <item itemvalue="Go 构建.1481" />
-      <item itemvalue="Go 构建.设计循环队列." />
+      <item itemvalue="Go 构建.622" />
+      <item itemvalue="Go 构建.200" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.设计循环队列." />
+        <item itemvalue="Go 构建.200" />
+        <item itemvalue="Go 构建.622" />
         <item itemvalue="Go 构建.1481" />
         <item itemvalue="Go 构建.1480" />
       </list>
