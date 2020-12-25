@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732e1fa5-b7ec-4713-a2c9-a244e8bc81ee" name="默认的" comment="打卡2020/12/23">
-      <change afterPath="$PROJECT_DIR$/700. 二叉搜索树中的搜索.go" afterDir="false" />
+    <list default="true" id="732e1fa5-b7ec-4713-a2c9-a244e8bc81ee" name="默认的" comment="打卡2020/12/25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +144,7 @@
     <MESSAGE value="打卡2020/12/18" />
     <MESSAGE value="打卡2020/12/22" />
     <MESSAGE value="打卡2020/12/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="打卡2020/12/23" />
+    <MESSAGE value="打卡2020/12/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="打卡2020/12/25" />
   </component>
 </project>
