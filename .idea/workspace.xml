@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732e1fa5-b7ec-4713-a2c9-a244e8bc81ee" name="默认的" comment="打卡2020/12/25">
+    <list default="true" id="732e1fa5-b7ec-4713-a2c9-a244e8bc81ee" name="默认的" comment="Update README">
+      <change afterPath="$PROJECT_DIR$/1528. 重新排列字符串.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -37,7 +38,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/622. 设计循环队列.go" />
   </component>
-  <component name="RunManager" selected="Go 构建.700">
+  <component name="RunManager" selected="Go 构建.go build 1528. 重新排列字符串.go">
     <configuration name="103" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="LeetCode-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -70,28 +71,28 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="746" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build 1528. 重新排列字符串.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/746. 使用最小花费爬楼梯.go" />
+      <filePath value="$PROJECT_DIR$/1528. 重新排列字符串.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go 构建.746" />
       <item itemvalue="Go 构建.1486" />
       <item itemvalue="Go 构建.103" />
       <item itemvalue="Go 构建.387" />
       <item itemvalue="Go 构建.700" />
+      <item itemvalue="Go 构建.go build 1528. 重新排列字符串.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build 1528. 重新排列字符串.go" />
         <item itemvalue="Go 构建.700" />
         <item itemvalue="Go 构建.387" />
         <item itemvalue="Go 构建.103" />
         <item itemvalue="Go 构建.1486" />
-        <item itemvalue="Go 构建.746" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +146,7 @@
     <MESSAGE value="打卡2020/12/22" />
     <MESSAGE value="打卡2020/12/23" />
     <MESSAGE value="打卡2020/12/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="打卡2020/12/25" />
+    <MESSAGE value="Update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
   </component>
 </project>
